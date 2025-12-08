@@ -13,5 +13,4 @@ Credits
 - Revamp V1 with new textures and sounds by sirken
 - Revamp V2 by skylord
 
-**Found a problem/issue in the mod? Open an issue at:**
-<a href = ""></a>
+**Found a problem/issue in the mod? Open an issue** <a href = "https://github.com/skylord-at-hub/laser_mod/issues">here.</a>
