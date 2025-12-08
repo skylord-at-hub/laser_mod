@@ -1,5 +1,5 @@
 laser_mod
-Copyright (C) 2025 skylord
+Copyright (C) 2025 pagliaccio, sirken, skylord
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
