@@ -14,3 +14,7 @@ Credits
 - Revamp V2 by skylord
 
 **Found a problem/issue in the mod? Open an issue** <a href = "https://github.com/skylord-at-hub/laser_mod/issues">here.</a>
+
+## TODO:
+- Remove default and dyes dependencies (make it available to mineclone and other popular games)
+- Add wear to righclick abilities
