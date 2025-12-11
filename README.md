@@ -17,6 +17,11 @@ This is a revamp of the original laser mod which features:
 **Found a problem/issue in the mod? Open an issue** <a href = "https://github.com/skylord-at-hub/laser_mod/issues">here.</a>
 
 ## Changelog:
+### v2.0.1
+- Optimised code
+- Added sound top indicate that the right-click ability has been used
+- Remove durability when use of the right-click ability
+
 ### v2.0
 - Redo of the laser_mod V1 ( https://forum.luanti.org/viewtopic.php?t=10642 )
 - Add right-click ability to push objects away from the wielder
