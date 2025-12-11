@@ -1,6 +1,6 @@
 # Laser Sword V2 (laser_mod)
-Original concept (unmaintained): <a href = "https://github.com/Roberto5/laser_mod/tree/master">here</a>
-V1 (unmaintained): https://forum.luanti.org/viewtopic.php?t=10642
+- Original concept (unmaintained): <a href = "https://github.com/Roberto5/laser_mod/tree/master">here</a>
+- V1 (unmaintained): <a href = "https://forum.luanti.org/viewtopic.php?t=10642">here</a>
 
 ## Features
 This is a revamp of the original laser mod which features:
@@ -9,10 +9,9 @@ This is a revamp of the original laser mod which features:
 - A right-clickable ability (for the laser swords) which pushes objects away from the user
 - Code optimisation. Possibly easier to maintain code
 
-## Credits
-- Original code and concept by: https://github.com/Roberto5
-- Revamp V1 with new textures and sounds by sirken
-- Revamp V2 by skylord
+## Credits to:
+- sirken for sprites and Laser Sword sounds
+- skylord for code and some sounds
 
 **Found a problem/issue in the mod? Open an issue** <a href = "https://github.com/skylord-at-hub/laser_mod/issues">here.</a>
 
