@@ -1,6 +1,6 @@
-# Laser Sword V2
-(Original mod and concept (unmaintained): https://github.com/Roberto5/laser_mod/tree/master)
-(Revamped mod(V1): https://forum.luanti.org/viewtopic.php?t=10642)
+# Laser Sword V2 (laser_mod)
+Original concept (unmaintained): <a href = "https://github.com/Roberto5/laser_mod/tree/master">here</a>
+V1 (unmaintained): https://forum.luanti.org/viewtopic.php?t=10642
 
 ## Features
 This is a revamp of the original laser mod which features:
