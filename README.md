@@ -16,6 +16,17 @@ This is a revamp of the original laser mod which features:
 **Found a problem/issue in the mod? Open an issue** <a href = "https://github.com/skylord-at-hub/laser_mod/issues">here.</a>
 
 ## Changelog:
+### v2.0.2
+- Balance changes:
+> Uses: 15 => 20
+> punch_interval: 3 => 0.6
+> Can break most blocks faster
+> Fleshy damage: 12 => 8
+- Reduced max hear distance. Longer distances are just annoying
+- Any game can use this mod, however, games with mcl_core or default will have recipes registers
+- Code cleanup
+
+
 ### v2.0.1
 - Optimised code
 - Added sound top indicate that the right-click ability has been used
