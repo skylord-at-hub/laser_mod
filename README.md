@@ -38,7 +38,5 @@ This is a revamp of the original laser mod which features:
 - Somewhat optimised code
 
 ## TODO:
-- Remove default and dyes dependencies (make it available to mineclone and other popular games)
-- Add wear to righclick abilities
 - Laser guns?
 - (Assuming Laser Guns are added) some sabers can right-click to deflect laser bolts
