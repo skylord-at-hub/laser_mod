@@ -115,11 +115,11 @@ core.register_on_punchplayer(function(player, hitter, time_from_last_punch, tool
 
     local held_item = hitter:get_wielded_item():get_name()
     if sabers[held_item] then
-        core.sound_play("laser_mod_saber" .. math.random(1,3), {
+        core.sound_play("laser_mod_saber", {
             pos = pos,
             gain = 1,
             pitch = 1,
-            max_hear_distance = 2,
+            max_hear_distance = 5,
         })
         return
     end
@@ -132,11 +132,11 @@ core.register_on_dignode(function(pos, oldnode, digger)
 
     local held_item = digger:get_wielded_item():get_name()
     if sabers[held_item] then
-        core.sound_play("laser_mod_saber" .. math.random(1,3), {
+        core.sound_play("laser_mod_saber", {
             pos = pos,
             gain = 1,
             pitch = 1,
-            max_hear_distance = 2,
+            max_hear_distance = 5,
         })
         return
     end

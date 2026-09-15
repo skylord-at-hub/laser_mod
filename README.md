@@ -16,6 +16,11 @@ This is a revamp of the original laser mod which features:
 **Found a problem/issue in the mod? Open an issue** <a href = "https://github.com/skylord-at-hub/laser_mod/issues">here.</a>
 
 ## Changelog:
+### v2.0.2.1
+A release that had minor tweeks to the code:
+- Sound distance: 2 => 5
+- Stop using a rng for sounds. Simply the internal system instead
+
 ### v2.0.2
 - Balance changes:
 > Uses: 15 => 20
