@@ -18,6 +18,9 @@ This is a revamp of the original laser mod which features:
 **Found a problem/issue in the mod? Open an issue** <a href = "https://github.com/skylord-at-hub/laser_mod/issues">here.</a>
 
 ## Changelog:
+### v2.0.22
+- Optimise sprites (CC Sheriff-Unit-3)
+
 ### v2.0.21
 - A simple release that fixes a few problems:
 - Sound distance: 2 => 5
